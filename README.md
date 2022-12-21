@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nick Lewis
+- 👀 I’m interested in optimization, machine learning methods and their applications in finance and cybersecurity.
+- 🌱 I’m currently learning mathematics and economics at UCLA, and pursuing graduate study in financial engineering or data science.
+- 📫 How to reach me via email: nicklewis16@hotmail.com or phone:  (425)606-9795
